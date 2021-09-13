@@ -1,0 +1,5 @@
+184.72.104.138
+GoldenPath.exe -logfile log-client.txt -mlapi client
+GoldenPath.exe -logfile log-server.txt -mlapi server
+
+25.86.37.56
